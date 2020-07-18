@@ -1,1 +1,1 @@
-# React-inf
+# React-tutorials by scrimba 
